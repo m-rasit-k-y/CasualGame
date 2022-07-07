@@ -2526,7 +2526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a2c8c08c516c8644eb51a8578b603da4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Hiz: 6
+  Hiz: 8
   anim: {fileID: 5866666019881187912}
   joystick: {fileID: 1453524603}
   joystick_image: {fileID: 1453524604}
